@@ -19,4 +19,9 @@ export const Nav_Link =[
         url:'#',
         label:"Team"
     },
+     {
+        id:5,
+        url:'#',
+        label:"Contact"
+    },
 ]
