@@ -1,0 +1,22 @@
+export const Nav_Link =[
+    {
+        id:1,
+        url:'#',
+        label:"Home"
+    },
+       {
+        id:2,
+        url:'#',
+        label:"About"
+    },
+       {
+        id:3,
+        url:'#',
+        label:"Services"
+    },
+       {
+        id:4,
+        url:'#',
+        label:"Team"
+    },
+]
