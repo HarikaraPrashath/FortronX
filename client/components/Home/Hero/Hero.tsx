@@ -69,7 +69,7 @@ const Hero = () => {
       </section>
 
       {/* AutoScroller Below Hero */}
-      <div className=" -mt-14 relative z-10">
+      <div className=" -mt-18 relative z-10">
         <AutoScroller />
       </div>
     </div>

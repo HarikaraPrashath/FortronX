@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { Rethink_Sans } from "next/font/google";
 import "./globals.css";
 import Responce from "@/components/Home/Nav/Responce";
+import Footer from "@/components/Home/Footer/Footer";
 
 const font = Rethink_Sans({
   weight: ["400", "500", "600", "700", "800"],
@@ -22,7 +23,9 @@ export default function RootLayout({
     <html lang="en">
       <body className={`${font.className} antialiased`}>
         <Responce/>
-        {children}</body>
+        {children}
+        <Footer/>
+        </body>
     </html>
   );
 }
