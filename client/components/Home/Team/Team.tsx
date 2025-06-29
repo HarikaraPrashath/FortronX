@@ -1,4 +1,5 @@
 import { Users } from "lucide-react"; // adjust imports based on your setup
+import Image from "next/image";
 
 import React from 'react'
 
@@ -30,7 +31,7 @@ const Team = () => {
       <div className="relative z-10 text-center">
         <div className="relative mb-6">
           <div className="w-24 h-24 mx-auto rounded-full bg-gradient-to-r from-blue-500 to-purple-600 p-1 group-hover:scale-105 transition-transform duration-300">
-            <img
+            <Image
               src="https://images.pexels.com/photos/3778876/pexels-photo-3778876.jpeg"
               alt="John Doe"
               className="w-full h-full rounded-full object-cover border-2 border-white"
@@ -64,7 +65,7 @@ const Team = () => {
       <div className="relative z-10 text-center">
         <div className="relative mb-6">
           <div className="w-24 h-24 mx-auto rounded-full bg-gradient-to-r from-green-500 to-teal-600 p-1 group-hover:scale-105 transition-transform duration-300">
-            <img
+            <Image
               src="https://images.pexels.com/photos/3777564/pexels-photo-3777564.jpeg"
               alt="Jane Smith"
               className="w-full h-full rounded-full object-cover border-2 border-white"

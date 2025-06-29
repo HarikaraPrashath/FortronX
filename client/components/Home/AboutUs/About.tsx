@@ -6,10 +6,6 @@ import {
   Zap,
   Shield,
   Clock,
-  Code,
-  Palette,
-  BarChart3,
-  Globe,
   Heart,
   Star,
   

@@ -127,7 +127,7 @@ const ContactUs = () => {
             Get In Touch
           </div>
           <h1 className="text-4xl md:text-6xl font-bold leading-tight mb-6">
-            Let's Start Your{" "}
+            Let&apos;s Start Your{" "}
             <span className="bg-gradient-to-r from-blue-600 via-purple-600 to-pink-600 bg-clip-text text-transparent">
               Success Story
             </span>
@@ -197,7 +197,7 @@ const ContactUs = () => {
                 </div>
                 <h3 className="text-xl font-semibold text-gray-900 mb-2">Thank You!</h3>
                 <p className="text-gray-600">
-                  Your consultation request has been submitted. We'll contact you within 24 hours to confirm your
+                  Your consultation request has been submitted. We&apos;ll contact you within 24 hours to confirm your
                   appointment.
                 </p>
               </div>
