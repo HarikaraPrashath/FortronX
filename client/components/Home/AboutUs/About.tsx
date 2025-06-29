@@ -6,15 +6,13 @@ import {
   Zap,
   Shield,
   Clock,
-  Lightbulb,
-  Rocket,
   Code,
   Palette,
   BarChart3,
   Globe,
   Heart,
   Star,
-  CheckCircle,
+  
 } from "lucide-react"
 
 const About = () => {
@@ -171,25 +169,7 @@ const About = () => {
       </section>
 
 
-      {/* Call to Action */}
-      {/* <section className="py-20 px-4 md:px-8 max-w-7xl mx-auto text-center">
-        <div className="bg-gradient-to-r from-blue-600 to-purple-600 rounded-3xl p-12 text-white">
-          <Lightbulb className="w-16 h-16 mx-auto mb-6 opacity-90" />
-          <h2 className="text-3xl md:text-4xl font-bold mb-4">Ready to Start Your Journey?</h2>
-          <p className="text-blue-100 text-lg mb-8 max-w-2xl mx-auto">
-            Let's discuss how we can help transform your ideas into successful digital solutions that drive real
-            results.
-          </p>
-          <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <button type="button" className="bg-white text-blue-600 px-8 py-4 rounded-2xl font-semibold hover:bg-gray-50 transition-colors">
-              Get Started Today
-            </button>
-            <button type="button"className="border-2 border-white text-white px-8 py-4 rounded-2xl font-semibold hover:bg-white hover:text-blue-600 transition-colors">
-              Schedule a Call
-            </button>
-          </div>
-        </div>
-      </section> */}
+
     </div>
   )
 }

@@ -132,15 +132,6 @@ const Service = () => {
           )
         })}
       </div>
-
-      {/* Bottom CTA */}
-      {/* <div className="text-center mt-16">
-        <div className="inline-flex items-center gap-2 text-gray-600 text-sm">
-          <div className="w-8 h-px bg-gradient-to-r from-transparent to-gray-300" />
-          Ready to get started?
-          <div className="w-8 h-px bg-gradient-to-r from-gray-300 to-transparent" />
-        </div>
-      </div> */}
     </section>
   )
 }
