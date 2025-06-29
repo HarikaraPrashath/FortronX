@@ -1,4 +1,4 @@
-import { Users, Award, Globe } from "lucide-react"; // adjust imports based on your setup
+import { Users } from "lucide-react"; // adjust imports based on your setup
 
 import React from 'react'
 

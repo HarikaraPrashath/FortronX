@@ -55,32 +55,7 @@ const About = () => {
     },
   ]
 
-  const capabilities = [
-    {
-      icon: Code,
-      title: "Custom Development",
-      description: "Build tailored solutions that perfectly fit your business needs and scale with your growth.",
-      features: ["Web Applications", "Mobile Apps", "API Integration", "Database Design"],
-    },
-    {
-      icon: Palette,
-      title: "Creative Design",
-      description: "Create stunning visual experiences that captivate your audience and strengthen your brand.",
-      features: ["UI/UX Design", "Brand Identity", "Marketing Materials", "Product Design"],
-    },
-    {
-      icon: BarChart3,
-      title: "Digital Strategy",
-      description: "Develop comprehensive strategies that drive engagement, conversions, and business growth.",
-      features: ["SEO Optimization", "Social Media", "Content Marketing", "Analytics"],
-    },
-    {
-      icon: Globe,
-      title: "Global Reach",
-      description: "Expand your business worldwide with our international expertise and market knowledge.",
-      features: ["Multi-language Support", "Global SEO", "Cultural Adaptation", "Market Research"],
-    },
-  ]
+
 
   const stats = [
     { number: "500+", label: "Projects Completed" },
@@ -105,7 +80,7 @@ const About = () => {
             </span>
           </h1>
           <p className="text-gray-600 text-lg md:text-xl max-w-4xl mx-auto leading-relaxed mb-12">
-            We're a passionate team of innovators, designers, and developers dedicated to helping businesses thrive in
+            We&apos;re a passionate team of innovators, designers, and developers dedicated to helping businesses thrive in
             the digital world. Our mission is to transform your vision into powerful solutions that drive growth and
             success.
           </p>
@@ -138,7 +113,7 @@ const About = () => {
             </span>
           </h2>
           <p className="text-gray-600 text-lg max-w-3xl mx-auto leading-relaxed">
-            We don't just deliver projects; we build lasting partnerships. Here's what sets us apart from the
+            We don&apos;t just deliver projects; we build lasting partnerships. Here&apos;s what sets us apart from the
             competition and makes us the preferred choice for businesses worldwide.
           </p>
         </div>

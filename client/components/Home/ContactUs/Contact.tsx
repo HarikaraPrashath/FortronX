@@ -185,7 +185,7 @@ const ContactUs = () => {
                 </span>
               </h2>
               <p className="text-gray-600">
-                Fill out the form below and we'll get back to you within 24 hours to schedule your personalized
+                Fill out the form below and we&apos;ll get back to you within 24 hours to schedule your personalized
                 consultation.
               </p>
             </div>
@@ -433,7 +433,7 @@ const ContactUs = () => {
           <Headphones className="w-16 h-16 mx-auto mb-6 opacity-90" />
           <h2 className="text-3xl md:text-4xl font-bold mb-4">Need Immediate Assistance?</h2>
           <p className="text-gray-300 text-lg mb-8 max-w-2xl mx-auto">
-            Can't wait for a scheduled consultation? Our support team is available to help you right now.
+            Can&apos;t wait for a scheduled consultation? Our support team is available to help you right now.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <button type="submit" className="bg-white text-gray-900 px-8 py-4 rounded-2xl font-semibold hover:bg-gray-100 transition-colors flex items-center justify-center gap-2">
